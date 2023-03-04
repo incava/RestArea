@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="commentAry">
+        <item>우리 졸음 쉼터에서\n\n 부모님,자식,연인,지인에게\n\n오랜만에 연락한 번\n\n 해보는 것은\n\n 어떨까요?</item>
+        <item>이 앱을\n\n 설치한 당신이\n\n 30명을 살리셨습니다.</item>
+        <item>가족분들이\n\n뉴스를 보고\n\n있습니다.\n\n교통사고 뉴스 1면을\n\n 방금 지우셨습니다.</item>
+    </string-array>
+
+</resources>
